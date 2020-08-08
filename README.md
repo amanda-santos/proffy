@@ -1,5 +1,5 @@
 <h1 align="center">
-    Proffy
+    Proffy 🤓📝
 </h1>
 
 <p align="center">
